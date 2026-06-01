@@ -1,0 +1,11 @@
+huggingface-hub==1.14.0
+sentence-transformers>=5.1.0
+transformers==5.8.0
+accelerate==1.13.0
+qwen-vl-utils==0.0.14
+av==17.0.1
+decord==0.6.0
+numpy==2.4.4
+tqdm==4.67.3
+safetensors==0.7.0
+tokenizers==0.22.2
